@@ -25,7 +25,7 @@
 - 📂 Shopping Generator [Under development]: 
   - **Description:** Collaborative project in Java, aiming to manage kitchen inventory, suggest dinner recipes, and generate shopping lists. Serving as the Project Leader in a team of 4.
   
-- 📂 Train Dispatch System: 
+- 📂 [Train Dispatch System](https://github.com/SigurdRiseth/mappe-idatg1003-traindispatchsystem-SigurdRiseth): 
   - **Description:** Java-based system designed for displaying train departures from stations. Features include adding, removing, and editing departures, along with the ability to print a table showcasing upcoming departures.
 
 ## Contact
